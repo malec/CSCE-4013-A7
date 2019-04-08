@@ -1,4 +1,4 @@
-name := "Word COunt"
+name := "Word Count"
 
 version := "1.0"
 

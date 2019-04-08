@@ -4,10 +4,10 @@
 		module="word-count_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20190407180314"
+		publication="20190407184024"
 	>
 		<description>
-		Word COunt
+		Word Count
 		</description>
 	</info>
 	<configurations>

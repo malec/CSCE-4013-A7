@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m/home/alec/git/CSCE-4013-Cloud-Computing/CSCE-4013-A7/wordcount.scala:12:97: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : scala.collection.immutable.Map[String,Int][0m
+[0m[[0m[31merror[0m] [0m[0m required: Seq[?][0m
+[0m[[0m[31merror[0m] [0m[0m    sc.parallelize(lines.flatMap(_.split("\\W+")).collect.toList.groupBy(word => word).mapValues(_.length), 1).saveAsTextFile("output")[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
